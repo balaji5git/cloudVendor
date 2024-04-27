@@ -15,6 +15,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.cloudVendorModel.CloudVendor;
 import com.example.cloudVendorService.CloudVendorService;
 
+// balaji RestController
+
 @RestController
 @RequestMapping("/cloudvendor")
 public class CloudVendorController {
